@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/israelsantiago/js-tdd-course#readme",
   "devDependencies": {
-    "eslint": "^4.0.0",
-    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.2",
     "eslint-plugin-import": "^2.7.0",
     "husky": "^0.14.3"
   }
